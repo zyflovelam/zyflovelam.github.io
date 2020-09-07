@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zyflovelam.github.io</id>
     <title>Gridea</title>
-    <updated>2020-09-07T01:41:22.444Z</updated>
+    <updated>2020-09-07T04:11:14.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zyflovelam.github.io"/>
     <link rel="self" href="https://zyflovelam.github.io/atom.xml"/>
@@ -20,7 +20,7 @@
 <p>一个用于在 <code>UITableView</code> 与 <code>UICollectionView</code> 中显示空白内容的控件<br>
 地址： <a href="https://github.com/dzenbot/DZNEmptyDataSet">Github</a></p>
 <h3 id="blur模糊库">Blur模糊库：</h3>
-<p><a href="https://github.com/touyu/BlurKit">GitHub - touyu/BlurKit: A lightweight library that can easily blur the view.</a>、</p>
+<p><a href="https://github.com/touyu/BlurKit">GitHub - touyu/BlurKit: A lightweight library that can easily blur the view.</a></p>
 <h3 id="awesome-ios-ui-一些比较好的ui库收集">Awesome-ios-ui 一些比较好的UI库收集</h3>
 <p>地址：<a href="https://github.com/ivanvorobei/awesome-ios-ui">Awesome-iOS-UI</a></p>
 <h3 id="ui动画库">UI动画库</h3>
@@ -36,7 +36,7 @@
 <p>地址：<a href="https://github.com/malcommac/SwiftRichString">SwiftRichString</a></p>
 <h3 id="tiercel-swift-下载框架">Tiercel Swift 下载框架</h3>
 <p>地址： <a href="https://github.com/Danie1s/Tiercel">Tiercel</a></p>
-<h2 id="日期库">日期库</h2>
+<h3 id="日期库">日期库</h3>
 <p><a href="https://github.com/malcommac/SwiftDate">SwiftDate</a></p>
 <h3 id="格式化">格式化</h3>
 <p><a href="https://github.com/malcommac/SwiftDate/blob/master/Documentation/7.Format_UnicodeTable.md">Format</a></p>
@@ -50,6 +50,8 @@
 <p>地址：<a href="https://github.com/nekonora/TaggerKit">Tagger</a></p>
 <h3 id="drawerview-抽屉controller">DrawerView - 抽屉controller</h3>
 <p>地址：<a href="https://github.com/mkko/DrawerView">DrawerView</a></p>
+<h3 id="swift-截屏">Swift 截屏</h3>
+<p>地址：<a href="https://github.com/startry/SwViewCapture">SwViewCapture</a></p>
 ]]></content>
     </entry>
 </feed>
