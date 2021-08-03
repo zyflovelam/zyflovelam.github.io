@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zyflovelam.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-08-03T03:26:36.031Z</updated>
+    <title>Dev-Zhang 的知识屋</title>
+    <updated>2021-08-03T03:36:16.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zyflovelam.github.io"/>
     <link rel="self" href="https://zyflovelam.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>努力做个有用的人！</subtitle>
     <logo>https://zyflovelam.github.io/images/avatar.png</logo>
     <icon>https://zyflovelam.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Dev-Zhang 的知识屋</rights>
     <entry>
         <title type="html"><![CDATA[Github 优秀库收集]]></title>
         <id>https://zyflovelam.github.io/post/github-you-xiu-ku-shou-ji/</id>
