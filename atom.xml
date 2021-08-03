@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zyflovelam.github.io</id>
     <title>Dev-Zhang 的知识屋</title>
-    <updated>2021-08-03T03:48:07.382Z</updated>
+    <updated>2021-08-03T12:50:32.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zyflovelam.github.io"/>
     <link rel="self" href="https://zyflovelam.github.io/atom.xml"/>
@@ -10,6 +10,98 @@
     <logo>https://zyflovelam.github.io/images/avatar.png</logo>
     <icon>https://zyflovelam.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Dev-Zhang 的知识屋</rights>
+    <entry>
+        <title type="html"><![CDATA[ Swift常用类库整理]]></title>
+        <id>https://zyflovelam.github.io/post/swift-chang-yong-lei-ku-zheng-li/</id>
+        <link href="https://zyflovelam.github.io/post/swift-chang-yong-lei-ku-zheng-li/">
+        </link>
+        <updated>2021-08-03T12:46:18.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="dznemptydataset">DZNEmptyDataSet</h3>
+<p>一个用于在 <code>UITableView</code> 与 <code>UICollectionView</code> 中显示空白内容的控件<br>
+地址： <a href="https://github.com/dzenbot/DZNEmptyDataSet">Github</a></p>
+<h3 id="blur模糊库">Blur模糊库：</h3>
+<p><a href="https://github.com/touyu/BlurKit">GitHub - touyu/BlurKit: A lightweight library that can easily blur the view.</a></p>
+<h3 id="awesome-ios-ui-一些比较好的ui库收集">Awesome-ios-ui 一些比较好的UI库收集</h3>
+<p>地址：<a href="https://github.com/ivanvorobei/awesome-ios-ui">Awesome-iOS-UI</a></p>
+<h3 id="ui动画库">UI动画库</h3>
+<p>地址：<a href="https://github.com/marcosgriselli/ViewAnimator">ViewAnimator</a></p>
+<h3 id="简化gcd的异步操作库">简化GCD的异步操作库</h3>
+<p>地址：<a href="https://github.com/duemunk/Async">Async</a></p>
+<h3 id="爆炸按钮">爆炸按钮</h3>
+<p>地址：<a href="https://github.com/imwcl/WCLShineButton">WCLShineButton</a></p>
+<h3 id="uicollectionview-的布局">UICollectionView 的布局</h3>
+<p>地址：<a href="https://github.com/nicklockwood/iCarousel">iCarousel</a><br>
+地址：<a href="https://github.com/BenEmdon/CenteredCollectionView">CenteredCollectionView</a></p>
+<h3 id="富文本组件">富文本组件</h3>
+<p>地址：<a href="https://github.com/malcommac/SwiftRichString">SwiftRichString</a></p>
+<h3 id="tiercel-swift-下载框架">Tiercel Swift 下载框架</h3>
+<p>地址： <a href="https://github.com/Danie1s/Tiercel">Tiercel</a></p>
+<h2 id="日期库">日期库</h2>
+<p><a href="https://github.com/malcommac/SwiftDate">SwiftDate</a></p>
+<ul>
+<li>日期格式化<br>
+<a href="https://github.com/malcommac/SwiftDate/blob/master/Documentation/7.Format_UnicodeTable.md">Format</a></li>
+</ul>
+<h3 id="collectionview">CollectionView</h3>
+<p>地址：<a href="https://github.com/miku1958/ConfigableCollectionView">ConfigableCollectionView</a></p>
+<h3 id="swiftytimer">SwiftyTimer</h3>
+<p>地址：<a href="https://github.com/radex/SwiftyTimer">SwiftyTimer</a></p>
+<h3 id="cardslayout">CardsLayout</h3>
+<p>地址: <a href="https://github.com/filletofish/CardsLayout">CardsLayout</a></p>
+<h3 id="tag-库">Tag 库</h3>
+<p>地址：<a href="https://github.com/nekonora/TaggerKit">Tagger</a></p>
+<h3 id="drawerview-抽屉controller">DrawerView - 抽屉controller</h3>
+<p>地址：<a href="https://github.com/mkko/DrawerView">DrawerView</a></p>
+<h3 id="swift-截屏">Swift 截屏</h3>
+<p>地址：<a href="https://github.com/startry/SwViewCapture">SwViewCapture</a></p>
+<h3 id="darkmode">DarkMode</h3>
+<p>地址： <a href="https://github.com/microsoft/FluentDarkModeKit">FluentDarkModeKit</a></p>
+<h3 id="jtapplecalendar-支持week">JTAppleCalendar - 支持week</h3>
+<p>地址：<a href="https://github.com/patchthecode/JTAppleCalendar">JTAppleCalendar</a></p>
+<h3 id="kvkcalendar">KVKCalendar</h3>
+<p>地址： <a href="https://github.com/kvyatkovskys/KVKCalendar">KVKCalendar</a></p>
+<h3 id="bluejay-蓝牙库">Bluejay - 蓝牙库</h3>
+<p>地址： <a href="https://github.com/steamclock/bluejay">bluejay</a></p>
+<h3 id="circelbar-一个好看的tabbar">CircelBar - 一个好看的TabBar</h3>
+<p>地址： <a href="https://github.com/softhausHQ/CircleBar">CircleBar</a></p>
+<h3 id="urlnavigator-url界面router">URLNavigator - URL界面Router</h3>
+<p>地址： <a href="https://github.com/devxoul/URLNavigator">URLNavigator</a></p>
+<h3 id="delegated-一个帮助取消-weak-self-的库">Delegated - 一个帮助取消 weak self 的库</h3>
+<p>地址：<a href="https://github.com/dreymonde/Delegated">Delegated</a></p>
+<h3 id="stevia-一个类似描述的方式自动布局的库">Stevia - 一个类似描述的方式自动布局的库</h3>
+<p>地址：<a href="https://github.com/freshOS/Stevia">Stevia</a></p>
+<h3 id="validatedpropertykit-一个用于校验属性值的库">ValidatedPropertyKit - 一个用于校验属性值的库</h3>
+<p>地址：<a href="https://github.com/SvenTiigi/ValidatedPropertyKit">ValidatedPropertyKit</a></p>
+<h3 id="calendarkit">CalendarKit</h3>
+<p>地址： <a href="https://github.com/richardtop/CalendarKit">CalendarKit</a></p>
+<h3 id="calendar-link-nodejs-用于link各大calendar">Calendar-link node.js 用于link各大Calendar</h3>
+<p>地址：<a href="https://github.com/AnandChowdhary/calendar-link">Calendar-link</a></p>
+<h3 id="kdcircularprogress-环形进度条">KDCircularProgress - 环形进度条</h3>
+<p>地址：<a href="https://github.com/kaandedeoglu/KDCircularProgress">KDCircularProgress</a></p>
+<h3 id="bonncylayout-弹性-collectionview-layout">BonncyLayout - 弹性 collectionView layout</h3>
+<p>地址： <a href="https://github.com/roberthein/BouncyLayout">BouncyLayout</a></p>
+<h3 id="swiftscan-二维码扫描">SwiftScan - 二维码扫描</h3>
+<p>地址：<a href="https://github.com/MxABC/swiftScan">SwiftScan</a></p>
+<h3 id="shapeqrcode-生成二维码">ShapeQRCode - 生成二维码</h3>
+<p>地址：<a href="https://github.com/geroembser/ShapeQRCode">ShapeQRCode</a></p>
+<h3 id="bouncylayout-uicollectionview的弹性布局">BouncyLayout - UICollectionView的弹性布局</h3>
+<p>地址： <a href="https://github.com/roberthein/BouncyLayout">BouncyLayout</a></p>
+<h3 id="sotabbar">SOTabBar</h3>
+<p>地址：<a href="https://github.com/Ahmadalsofi/SOTabBar">SOTabBar</a></p>
+<h3 id="hgcircularslider-圆形进度条指示器">HGCircularSlider - 圆形进度条，指示器</h3>
+<p>地址：<a href="https://github.com/HamzaGhazouani/HGCircularSlider">HGCircularSlider</a></p>
+<h3 id="awesome-ios-animation">awesome-ios-animation</h3>
+<p>地址：<a href="https://github.com/onmyway133/awesome-ios-animation">awesome-ios-animation</a></p>
+<h3 id="fluentkit-一个orm映射的框架nosql和sql">FluentKit: 一个ORM映射的框架，NoSQL和SQL</h3>
+<p>地址：<a href="https://github.com/vapor/fluent-kit">FluentKit</a></p>
+<h3 id="ascollectionview">ASCollectionView</h3>
+<p>地址：<a href="https://github.com/abdullahselek/ASCollectionView">ASCollectionView</a></p>
+<h3 id="jxbanner-一个轮播图">JXBanner - 一个轮播图</h3>
+<p>地址：<a href="https://github.com/Coder-TanJX/JXBanner">JXBanner</a></p>
+<h3 id="verticalcardswiper-竖直更换的card">VerticalCardSwiper - 竖直更换的Card</h3>
+<p>地址：<a href="https://github.com/JoniVR/VerticalCardSwiper">VerticalCardSwiper</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Github 优秀库收集]]></title>
         <id>https://zyflovelam.github.io/post/github-you-xiu-ku-shou-ji/</id>
