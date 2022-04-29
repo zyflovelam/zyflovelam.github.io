@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zyflovelam.github.io</id>
     <title>Dev-Zhang 的知识屋</title>
-    <updated>2022-04-29T15:40:18.513Z</updated>
+    <updated>2022-04-29T15:41:01.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zyflovelam.github.io"/>
     <link rel="self" href="https://zyflovelam.github.io/atom.xml"/>
@@ -45,7 +45,7 @@
 <li>(2018/08 - 至今) iOS/后台开发工程师：主要负责项目的iOS端以及数据后台开发，iOS 端主要使用 <code>Swift</code> 语言以及 <code>UIKit</code> 框架进行开发，后台服务使用<code>Firebase</code> 全家桶进行开发，<code>Nodejs</code> 为核心进行 <code>Cloud functions</code> 开发，参与项目：
 <ul>
 <li>Bookmigo: 一款经典老书阅读器，聚焦于 <code>Buddy Read</code>，意为群体交流读书阅读器，主要负责 iOS 端以及后端 <code>Cloud Functions</code> 的开发，使用语言，iOS 端: <code>Swift</code>， <code>Cloud Functions</code>: <code>JavaScript/Nodejs</code>. (产品于北美上架，但由于产品负责人现在未继续运营，于前段时间被迫下架)</li>
-<li>TuneKey: 一款针对老师以及 Studio 的音乐教育行业的工具软件，聚焦于 Lesson Schedule/Reschedule，Materials Share，Practice Recording, Insights for Studio。主要负责 iOS 端以及后端 <code>Cloud Functions</code> 的开发，以及整体数据结构的设计，使用语言， iOS 端：<code>Swift</code>，<code>Cloud functions</code>：<code>JavaScript/Nodejs</code>。（产品于北美上架，内测中，已有较多忠实内测用户）</li>
+<li>TuneKey: 一款针对老师以及 Studio 的音乐教育行业的工具软件，聚焦于 Lesson Schedule/Reschedule，Materials Share，Practice Recording, Insights for Studio。主要负责 iOS 端以及后端 <code>Cloud Functions</code> 的开发，以及整体数据结构的设计，使用语言， iOS 端：<code>Swift</code>，<code>Cloud functions</code>：<code>JavaScript/Nodejs</code>。（产品于北美上架，公测中，已有较多忠实公测用户）</li>
 </ul>
 </li>
 </ul>
