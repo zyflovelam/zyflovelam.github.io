@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zyflovelam.github.io</id>
     <title>Dev-Zhang 的知识屋</title>
-    <updated>2022-04-29T14:59:29.155Z</updated>
+    <updated>2022-04-29T15:26:13.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zyflovelam.github.io"/>
     <link rel="self" href="https://zyflovelam.github.io/atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>https://zyflovelam.github.io/images/avatar.png</logo>
     <icon>https://zyflovelam.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Dev-Zhang 的知识屋</rights>
+    <entry>
+        <title type="html"><![CDATA[个人简历]]></title>
+        <id>https://zyflovelam.github.io/post/jian-li/</id>
+        <link href="https://zyflovelam.github.io/post/jian-li/">
+        </link>
+        <updated>2022-04-29T15:00:12.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="个人信息">个人信息</h2>
+<ul>
+<li>Joey Zhang</li>
+<li>zyflovelam@hotmail.com</li>
+</ul>
+<h2 id="技术栈">技术栈</h2>
+<h3 id="主要使用开发语言">主要使用开发语言</h3>
+<ul>
+<li>Java</li>
+<li>Swift</li>
+<li>JavaScript</li>
+</ul>
+<h3 id="主要使用开发工具框架产品">主要使用开发工具/框架/产品</h3>
+<ul>
+<li>Spring 全家桶：2017 年使用 Spring 全家桶进行项目开发</li>
+<li>Firebase：一款成熟的 Serverless 产品，属于 Google 旗下，内置有较为全面的各种服务，主要使用在 iOS 端以及后端 Cloud Functions 的开发上。</li>
+</ul>
+<h2 id="工作经历">工作经历</h2>
+<h3 id="沈阳东贸科技有限公司-2017-至今">沈阳东贸科技有限公司 (2017 - 至今)：</h3>
+<ul>
+<li>（2017/04 - 2018/08）后台开发工程师：主要负责项目的后台开发，项目使用<code>Java</code>语言，Spring全家桶框架为核心开发，参与项目：<code>ReferralKeep</code>（因一些决策原因，项目最后被终止）</li>
+<li>(2018/08 - 至今) iOS/后台开发工程师：主要负责项目的iOS端以及数据后台开发，使用<code>Firebase</code> 全家桶进行开发，Nodejs为核心进行 <code>Cloud functions</code> 开发，参与项目：
+<ul>
+<li>Bookmigo: 一款经典老书阅读器，聚焦于 <code>Buddy Read</code>，意为群体交流读书阅读器，主要负责 iOS 端以及后端 Cloud Functions 的开发，使用语言，iOS 端: Swift， Cloud Functions: JavaScript/Nodejs. (产品于北美上架，但由于产品负责人现在未继续运营，于前段时间被迫下架)</li>
+<li>TuneKey: 一款针对老师以及 Studio 的音乐教育行业的工具软件，聚焦于 Lesson Schedule/Reschedule，Materials Share，Practice Recording, Insights for Studio。主要负责 iOS 端以及后端 Cloud Functions 的开发，以及整体数据结构的设计，使用语言， iOS 端：Swift，Cloud functions：JavaScript/Nodejs。（产品于北美上架，内测中，已有较多忠实内测用户）</li>
+</ul>
+</li>
+</ul>
+<h2 id="教育经历">教育经历</h2>
+<p>辽宁科技学院，2013年入学</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ Swift常用类库整理]]></title>
         <id>https://zyflovelam.github.io/post/swift-chang-yong-lei-ku-zheng-li/</id>
